@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # calibration_TIRF.py
-# v0.1
+# v0.2dev
 # last edited 2012-09-06 by MB
 
 """
